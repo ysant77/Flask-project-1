@@ -6,3 +6,5 @@ MarkupSafe==2.0.1
 Werkzeug==2.0.2
 flask-sqlalchemy
 flask-migrate
+flask-wtf
+faker
